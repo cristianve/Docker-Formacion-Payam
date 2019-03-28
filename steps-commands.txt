@@ -1,0 +1,4 @@
+docker run -p 8080:8080 back(BACK_JAVA - openjdk)
+docker run -p 80:80 -d front(FRONT HTML - nginx)
+
+ 

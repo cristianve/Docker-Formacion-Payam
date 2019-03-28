@@ -1,0 +1,3 @@
+next step:
+	-kubernetes y gestion de contenedores
+	-Google cloud (subir kubernetes)
